@@ -1,0 +1,989 @@
+image_path,split,plant,health,disease
+train/Apple_applerotleaves/Black_rot (122).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (124).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (125).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (127).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (128).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (129).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (131).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (138).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_applerotleaves/Black_rot (140).jpg,train,Apple,Diseased,applerotleaves
+train/Apple_Blotch_Apple/_0_140.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_245.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_275.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_288.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_355.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_393.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_426.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_427.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_485.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_493.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_495.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_516.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_625.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_64.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_659.png,train,Apple,Diseased,Blotch
+train/Apple_Blotch_Apple/_0_74.png,train,Apple,Diseased,Blotch
+train/Apple_cedarrust/Cedar_rust (104).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (105).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (109).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (11).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (110).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (111).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (113).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (116).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (120).jpg,train,Apple,Diseased,cedarrust
+train/Apple_cedarrust/Cedar_rust (123).jpg,train,Apple,Diseased,cedarrust
+train/Apple_Healthy/Train_100.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1001.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1002.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1004.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1007.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1014.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1039.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1044.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_105.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/Train_1072.jpg,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_647.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_658.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_6597.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_6728.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_677.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_6892.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_6984.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7003.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7061.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7090.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7106.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7322.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7357.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7416.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7486.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7564.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7572.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7599.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7673.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7793.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_7908.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_804.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8074.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8140.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8246.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8252.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8257.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8266.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8354.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8379.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8382.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8447.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8500.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_866.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8681.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8854.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8867.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_8889.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9135.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9155.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9250.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9299.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_936.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9412.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9473.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9489.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_9521.png,train,Apple,Healthy,Healthy
+train/Apple_Healthy/_0_998.png,train,Apple,Healthy,Healthy
+train/Apple_leafblotch/1017.JPG.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/1019.JPG.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/2068.jpg.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/2069.jpg.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/2071.jpg.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/2073.jpg.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/2077.jpg.jpg,train,Apple,Diseased,leafblotch
+train/Apple_leafblotch/2079.jpg.jpg,train,Apple,Diseased,leafblotch
+train/Apple_normal_apple/_0_647.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_6546.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_658.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_677.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_6865.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_6892.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_6945.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_6984.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_7003.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_734.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_804.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_866.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_936.png,train,Apple,Diseased,normal
+train/Apple_normal_apple/_0_998.png,train,Apple,Diseased,normal
+train/Apple_Rot_Apple/_0_9188.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9193.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_924.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9246.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9275.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9290.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9331.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9349.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_940.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9406.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9408.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9472.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9474.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_9490.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_952.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_956.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_973.png,train,Apple,Diseased,Rot
+train/Apple_Rot_Apple/_0_989.png,train,Apple,Diseased,Rot
+train/Apple_scableaves/Train_1003.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1006.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1009.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1015.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1042.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1056.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1059.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1062.jpg,train,Apple,Diseased,scableaves
+train/Apple_scableaves/Train_1065.jpg,train,Apple,Diseased,scableaves
+train/Apple_Scab_Apple/_0_4359.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4435.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4501.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4691.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4692.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4745.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_475.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4772.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4828.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4853.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_4926.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_5022.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_504.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_629.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_70.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_719.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_724.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_759.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_848.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_876.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_972.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_979.png,train,Apple,Diseased,Scab
+train/Apple_Scab_Apple/_0_997.png,train,Apple,Diseased,Scab
+train/Cotton_Aphids/10.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/13.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/14.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/16.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/17.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/20.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/22.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/25.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Aphids/26.jpg,train,Cotton,Diseased,Aphids
+train/Cotton_Armyworm/1.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/10.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/12.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/13.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/14.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/16.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/19.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/2.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_Armyworm/20.jpg,train,Cotton,Diseased,Armyworm
+train/Cotton_bacterialblight/bact0.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact1.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact10.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact100.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact101.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact106.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact108.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact110.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact111.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact113.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact115.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/bact118.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/P1010086jpg - Copy.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_bacterialblight/P1010086jpg.jpg,train,Cotton,Diseased,bacterialblight
+train/Cotton_curlvirus/cotton-leaf-curl-virus-cotton-1595427323.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl0.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl1.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl104.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl105.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl11.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl111.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/curl112.jpg,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/Curl177.png,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/Curl178.png,train,Cotton,Diseased,curlvirus
+train/Cotton_curlvirus/Curl179.png,train,Cotton,Diseased,curlvirus
+train/Cotton_fussariumwilt/3-Figure1-1.jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done14.jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done15.png,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done19.jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done20.jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done3.jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done5.jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/done8 (2).jpg,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/Figure-1C.png,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/Figure-2A.png,train,Cotton,Diseased,fussariumwilt
+train/Cotton_fussariumwilt/Figure-2C.png,train,Cotton,Diseased,fussariumwilt
+train/Cotton_Healthy/h101.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h103.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h104.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h105.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h108.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h111.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h113.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h117.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h12.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h123.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_Healthy/h127.jpg,train,Cotton,Healthy,Healthy
+train/Cotton_targetspot/1.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/10.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/11.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/15.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/16.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/19.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/22.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/23.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/27.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_targetspot/28.jpg,train,Cotton,Diseased,targetspot
+train/Cotton_whitefly/2_cotton_whitefly_AGE121_2024-08-15_9.jpg,train,Cotton,Diseased,whitefly
+train/Cotton_whitefly/2_cotton_whitefly_AGE121_2024-08-28_2.jpg,train,Cotton,Diseased,whitefly
+train/Cotton_whitefly/2_cotton_whitefly_AGE127_2024-08-21_9.jpg,train,Cotton,Diseased,whitefly
+train/Cotton_whitefly/2_cotton_whitefly_AGE138_2024-09-03_1.jpg,train,Cotton,Diseased,whitefly
+train/Cotton_whitefly/2_cotton_whitefly_AGE146_2024-09-02_1.jpg,train,Cotton,Diseased,whitefly
+train/Cotton_whitefly/2_cotton_whitefly_AGE154_2024-09-18_8.jpg,train,Cotton,Diseased,whitefly
+train/Mango_Alternaria/Alternaria_005.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_006.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_008.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_009.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_010.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_013.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_016.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_017.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_018.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_020.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_021.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_022.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_024.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_026.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_027.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_028.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_029.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_030.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_031.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Alternaria/Alternaria_033.jpg,train,Mango,Diseased,Alternaria
+train/Mango_Anthracnose/20211008_124249 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/20211008_124250 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/20211008_124305 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/20211008_124334 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/20211008_124345 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/20211008_124524 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/20211008_125014 (Custom).jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_003.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_004.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_005.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_006.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_008.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_009.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_010.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_011.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_012.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_013.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_014.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_015.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_017.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_019.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_021.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_022.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_023.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_025.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_027.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_028.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_029.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_031.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_032.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_033.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_034.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_035.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_040.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_041.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_042.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Anthracnose/Anthracnose_043.jpg,train,Mango,Diseased,Anthracnose
+train/Mango_Bacterialcanker/IMG_20211106_121053 (Custom).jpg,train,Mango,Diseased,Bacterialcanker
+train/Mango_Bacterialcanker/IMG_20211106_121056 (Custom).jpg,train,Mango,Diseased,Bacterialcanker
+train/Mango_Bacterialcanker/IMG_20211106_121106 (Custom).jpg,train,Mango,Diseased,Bacterialcanker
+train/Mango_Bacterialcanker/IMG_20211106_121109 (Custom).jpg,train,Mango,Diseased,Bacterialcanker
+train/Mango_Bacterialcanker/IMG_20211106_121115 (Custom).jpg,train,Mango,Diseased,Bacterialcanker
+train/Mango_BlackMouldRot/Aspergillus_001.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_002.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_004.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_006.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_007.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_008.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_010.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_015.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_016.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_017.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_018.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_020.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_022.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_023.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_024.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_025.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_028.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_029.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_030.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_032.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_033.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_034.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_035.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_036.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_037.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_038.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_040.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_BlackMouldRot/Aspergillus_042.jpg,train,Mango,Diseased,BlackMouldRot
+train/Mango_Cuttingweevil/20211011_140216 (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Cuttingweevil/20211011_140220 (Custom) (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Cuttingweevil/20211011_140220 (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Cuttingweevil/20211011_160625 (Custom) (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Cuttingweevil/20211011_160835 (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Cuttingweevil/20211011_160852 (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Cuttingweevil/20211011_160853 (Custom).jpg,train,Mango,Diseased,Cuttingweevil
+train/Mango_Dieback/20211129_160425 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160428 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160432 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160516 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160544 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160558 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160608 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Dieback/20211129_160613 (Custom).jpg,train,Mango,Diseased,Dieback
+train/Mango_Gallmidge/IMG_20211106_161058 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161105 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161108 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161136 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161154 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161158 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161202 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161216 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Gallmidge/IMG_20211106_161400 (Custom).jpg,train,Mango,Diseased,Gallmidge
+train/Mango_Healthy/20211231_123105 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123123 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123220 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123225 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123253 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123310 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123327 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123338 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123341 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123346 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123529 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123608 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123636 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/20211231_123639 (Custom).jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_001.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_004.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_005.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_006.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_008.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_011.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_012.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_013.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_014.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_015.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_016.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_017.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_019.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_020.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_024.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_026.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_029.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_031.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_033.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_034.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_036.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_037.jpg,train,Mango,Healthy,Healthy
+train/Mango_Healthy/healthy_038.jpg,train,Mango,Healthy,Healthy
+train/Mango_Powderymildew/20211109_121218 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121231 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121236 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121257 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121358 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121404 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121410 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121418 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121423 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121425 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121430 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Powderymildew/20211109_121452 (Custom).jpg,train,Mango,Diseased,Powderymildew
+train/Mango_Sootymould/IMG_20211108_120906 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_120909 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_120927 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_120942 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_120948 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_120956 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_121000 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_121019 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_121022 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_121234 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_Sootymould/IMG_20211108_121238 (Custom).jpg,train,Mango,Diseased,Sootymould
+train/Mango_StemandRot/lasio_116.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_117.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_118.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_119.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_120.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_121.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_122.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_123.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_124.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_127.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_128.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_129.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_130.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_133.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_134.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_135.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_136.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_138.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_140.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_141.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_142.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_143.jpg,train,Mango,Diseased,StemandRot
+train/Mango_StemandRot/lasio_144.jpg,train,Mango,Diseased,StemandRot
+train/Pepper_Healthy/Cabai sehat001.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat003.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat004.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat012.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat017.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat018.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat025.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_Healthy/Cabai sehat031.jpg,train,Pepper,Healthy,Healthy
+train/Pepper_leafcurl/download (5).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/download (6).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/download (7).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/download (8)a.jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/download (9).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/images (1)a.jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/images (11).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/images (12).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafcurl/images (13).jpg,train,Pepper,Diseased,leafcurl
+train/Pepper_leafspot/leaf spot03 (1).jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot03.jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot04.jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot05 (1).jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot05.jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot11.jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot16 (1).jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot17 (1).jpg,train,Pepper,Diseased,leafspot
+train/Pepper_leafspot/leaf spot18 (1).jpg,train,Pepper,Diseased,leafspot
+train/Pepper_whitefly/download (1).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (11).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (16).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (17).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (22).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (27).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (4).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (5).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (6).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/download (8).jpg,train,Pepper,Diseased,whitefly
+train/Pepper_whitefly/images - 2021-05-19T012549.575.jpg,train,Pepper,Diseased,whitefly
+train/Pepper_yellowish/Cabai virus kuning14.jpg,train,Pepper,Diseased,yellowish
+train/Pepper_yellowish/Cabai virus kuning19.jpg,train,Pepper,Diseased,yellowish
+train/Pepper_yellowish/Cabai virus kuning21.jpg,train,Pepper,Diseased,yellowish
+train/Pepper_yellowish/Cabai virus kuning25.jpg,train,Pepper,Diseased,yellowish
+train/Pepper_yellowish/Cabai virus kuning34.jpg,train,Pepper,Diseased,yellowish
+train/Pepper_yellowish/Cabai virus kuning39.jpg,train,Pepper,Diseased,yellowish
+train/Pepper_yellowish/yellowish01.jpg,train,Pepper,Diseased,yellowish
+train/Potato_bacteria/1692332350457.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/1692333303178.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/1692333631862.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/1692333631989.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/1692336758926.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/20230815_111544.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/20230815_111931.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/20230815_113527.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/20230815_113533.jpg,train,Potato,Diseased,bacteria
+train/Potato_bacteria/20230815_113819.jpg,train,Potato,Diseased,bacteria
+train/Potato_fungi/1692332350583.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692333631883.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692333632169.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692333632410.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247287.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247294.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247300.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247364.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247530.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247561.jpg,train,Potato,Diseased,fungi
+train/Potato_fungi/1692334247568.jpg,train,Potato,Diseased,fungi
+train/Potato_Healthy/1692336758850.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_120306.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_121709.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_122740.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_123836.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_123841.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_123935.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_124016.jpg,train,Potato,Healthy,Healthy
+train/Potato_Healthy/20230712_124019.jpg,train,Potato,Healthy,Healthy
+train/Potato_nematode/20230712_121038.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_122808.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_153742.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_154559.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_154702.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_154713.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_155744.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230712_155746.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230802_105202.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230802_105225.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230802_105230.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230815_122751.jpg,train,Potato,Diseased,nematode
+train/Potato_nematode/20230815_122851.jpg,train,Potato,Diseased,nematode
+train/Potato_pest/1692332350525.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692333303029.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692333632291.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692333632391.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692334247071.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692334247101.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692334247335.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692336758593.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692336758609.jpg,train,Potato,Diseased,pest
+train/Potato_pest/1692336758616.jpg,train,Potato,Diseased,pest
+train/Potato_phytopthora/1692332350385.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/1692336759084.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_144143.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_154222.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_154232.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_154940.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_155052.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_160218.jpg,train,Potato,Diseased,phytopthora
+train/Potato_phytopthora/20230712_160344.jpg,train,Potato,Diseased,phytopthora
+train/Potato_virus/1692336758600.jpg,train,Potato,Diseased,virus
+train/Potato_virus/1692336758670.jpg,train,Potato,Diseased,virus
+train/Potato_virus/20230712_132641.jpg,train,Potato,Diseased,virus
+train/Potato_virus/20230712_133418.jpg,train,Potato,Diseased,virus
+train/Potato_virus/20230712_154616.jpg,train,Potato,Diseased,virus
+train/Potato_virus/20230712_155104.jpg,train,Potato,Diseased,virus
+train/Rice_bacterialleatblight/DSC_0365.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0370.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0372.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0373.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0377.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0378.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0382.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0383.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0384.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0396.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_bacterialleatblight/DSC_0398.jpg,train,Rice,Diseased,bacterialleatblight
+train/Rice_blast/IMG_0544.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0545.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0546.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0549.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0550.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0551.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0553.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0559.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0561.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0571.jpg,train,Rice,Diseased,blast
+train/Rice_blast/IMG_0576.jpg,train,Rice,Diseased,blast
+train/Rice_brownspot/DSC_0100.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0101.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0104.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0105.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0106.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0107.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0118.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0121.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0292.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0302.jpg,train,Rice,Diseased,brownspot
+train/Rice_brownspot/DSC_0306.jpg,train,Rice,Diseased,brownspot
+train/Rice_Healthy/healthy (10).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (101).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (102).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (106).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (107).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (108).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (109).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (111).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (112).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (113).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (119).jpg,train,Rice,Healthy,Healthy
+train/Rice_Healthy/healthy (123).jpg,train,Rice,Healthy,Healthy
+train/Rice_hispa/IMG_20190419_094245.jpg,train,Rice,Diseased,hispa
+train/Rice_hispa/IMG_20190419_094254.jpg,train,Rice,Diseased,hispa
+train/Rice_hispa/IMG_20190419_094308.jpg,train,Rice,Diseased,hispa
+train/Rice_hispa/IMG_20190419_095008.jpg,train,Rice,Diseased,hispa
+train/Rice_hispa/IMG_20190419_095623.jpg,train,Rice,Diseased,hispa
+train/Rice_hispa/IMG_20190419_095917.jpg,train,Rice,Diseased,hispa
+train/Rice_hispa/IMG_20190419_095931.jpg,train,Rice,Diseased,hispa
+train/Rice_leafsmut/DSC_0321.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0328.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0330.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0331.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0339.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0500.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0501.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0503.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0504.jpg,train,Rice,Diseased,leafsmut
+train/Rice_leafsmut/DSC_0505.jpg,train,Rice,Diseased,leafsmut
+train/Rice_tungro/IMG_0432.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0583.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0584.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0615.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0714.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0715.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0823.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0824.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0844.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0845.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0848.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0849.jpg,train,Rice,Diseased,tungro
+train/Rice_tungro/IMG_0850.jpg,train,Rice,Diseased,tungro
+train/Wheat_brownrust/BrownRust107.png,train,Wheat,Diseased,brownrust
+train/Wheat_brownrust/BrownRust1119.png,train,Wheat,Diseased,brownrust
+train/Wheat_brownrust/BrownRust1206.png,train,Wheat,Diseased,brownrust
+train/Wheat_brownrust/BrownRust1279.png,train,Wheat,Diseased,brownrust
+train/Wheat_brownrust/BrownRust1339.png,train,Wheat,Diseased,brownrust
+train/Wheat_brownrust/BrownRust1506.png,train,Wheat,Diseased,brownrust
+train/Wheat_brownrust/BrownRust156.png,train,Wheat,Diseased,brownrust
+train/Wheat_Healthy/Healthy0.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy1019.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy1171.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy124.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy1339.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy1373.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy1422.png,train,Wheat,Healthy,Healthy
+train/Wheat_Healthy/Healthy1564.png,train,Wheat,Healthy,Healthy
+train/Wheat_mildew/Mildew1066.png,train,Wheat,Diseased,mildew
+train/Wheat_mildew/Mildew1082.png,train,Wheat,Diseased,mildew
+train/Wheat_mildew/Mildew1111.png,train,Wheat,Diseased,mildew
+train/Wheat_mildew/Mildew1262.png,train,Wheat,Diseased,mildew
+train/Wheat_mildew/Mildew1267.png,train,Wheat,Diseased,mildew
+train/Wheat_mildew/Mildew1274.png,train,Wheat,Diseased,mildew
+train/Wheat_mildew/Mildew1289.png,train,Wheat,Diseased,mildew
+train/Wheat_septoria/Septoria1033.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1045.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1067.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1070.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1092.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1118.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1150.png,train,Wheat,Diseased,septoria
+train/Wheat_septoria/Septoria1164.png,train,Wheat,Diseased,septoria
+train/Wheat_yellowrust/YellowRust1010.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1110.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1118.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust113.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1175.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1200.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1329.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1371.png,train,Wheat,Diseased,yellowrust
+train/Wheat_yellowrust/YellowRust1443.png,train,Wheat,Diseased,yellowrust
+val/Apple_applerotleaves/Black_rot (121).jpg,val,Apple,Diseased,applerotleaves
+val/Apple_applerotleaves/Black_rot (14).jpg,val,Apple,Diseased,applerotleaves
+val/Apple_Blotch_Apple/_0_240.png,val,Apple,Diseased,Blotch
+val/Apple_Blotch_Apple/_0_363.png,val,Apple,Diseased,Blotch
+val/Apple_Blotch_Apple/_0_647.png,val,Apple,Diseased,Blotch
+val/Apple_Blotch_Apple/_0_764.png,val,Apple,Diseased,Blotch
+val/Apple_cedarrust/Cedar_rust (106).jpg,val,Apple,Diseased,cedarrust
+val/Apple_cedarrust/Cedar_rust (108).jpg,val,Apple,Diseased,cedarrust
+val/Apple_cedarrust/Cedar_rust (115).jpg,val,Apple,Diseased,cedarrust
+val/Apple_Healthy/Train_1005.jpg,val,Apple,Healthy,Healthy
+val/Apple_Healthy/Train_1080.jpg,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_6546.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_6688.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_6865.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_6945.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_7019.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_7269.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_734.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_7646.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_8255.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_8405.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_8706.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_8776.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_9333.png,val,Apple,Healthy,Healthy
+val/Apple_Healthy/_0_9345.png,val,Apple,Healthy,Healthy
+val/Apple_leafblotch/2007.jpg.jpg,val,Apple,Diseased,leafblotch
+val/Apple_leafblotch/2078.jpg.jpg,val,Apple,Diseased,leafblotch
+val/Apple_normal_apple/_0_6688.png,val,Apple,Diseased,normal
+val/Apple_normal_apple/_0_7019.png,val,Apple,Diseased,normal
+val/Apple_normal_apple/_0_7061.png,val,Apple,Diseased,normal
+val/Apple_normal_apple/_0_7090.png,val,Apple,Diseased,normal
+val/Apple_Rot_Apple/_0_9210.png,val,Apple,Diseased,Rot
+val/Apple_Rot_Apple/_0_9282.png,val,Apple,Diseased,Rot
+val/Apple_Rot_Apple/_0_9310.png,val,Apple,Diseased,Rot
+val/Apple_Rot_Apple/_0_9374.png,val,Apple,Diseased,Rot
+val/Apple_Rot_Apple/_0_964.png,val,Apple,Diseased,Rot
+val/Apple_scableaves/Train_1024.jpg,val,Apple,Diseased,scableaves
+val/Apple_scableaves/Train_1027.jpg,val,Apple,Diseased,scableaves
+val/Apple_Scab_Apple/_0_4388.png,val,Apple,Diseased,Scab
+val/Apple_Scab_Apple/_0_4573.png,val,Apple,Diseased,Scab
+val/Apple_Scab_Apple/_0_4835.png,val,Apple,Diseased,Scab
+val/Apple_Scab_Apple/_0_840.png,val,Apple,Diseased,Scab
+val/Apple_Scab_Apple/_0_87.png,val,Apple,Diseased,Scab
+val/Apple_Scab_Apple/_0_892.png,val,Apple,Diseased,Scab
+val/Cotton_Aphids/11.jpg,val,Cotton,Diseased,Aphids
+val/Cotton_Aphids/15.jpg,val,Cotton,Diseased,Aphids
+val/Cotton_Armyworm/15.jpg,val,Cotton,Diseased,Armyworm
+val/Cotton_Armyworm/17.jpg,val,Cotton,Diseased,Armyworm
+val/Cotton_bacterialblight/2015-angular-leaf-spot-colquitt-county-2.jpg,val,Cotton,Diseased,bacterialblight
+val/Cotton_bacterialblight/bact102.jpg,val,Cotton,Diseased,bacterialblight
+val/Cotton_bacterialblight/bact104.jpg,val,Cotton,Diseased,bacterialblight
+val/Cotton_bacterialblight/bact119.jpg,val,Cotton,Diseased,bacterialblight
+val/Cotton_curlvirus/Curl175.png,val,Cotton,Diseased,curlvirus
+val/Cotton_curlvirus/Curl176.png,val,Cotton,Diseased,curlvirus
+val/Cotton_curlvirus/Curl180.png,val,Cotton,Diseased,curlvirus
+val/Cotton_fussariumwilt/done18.jpg,val,Cotton,Diseased,fussariumwilt
+val/Cotton_fussariumwilt/done21.jpg,val,Cotton,Diseased,fussariumwilt
+val/Cotton_fussariumwilt/done8.jpg,val,Cotton,Diseased,fussariumwilt
+val/Cotton_Healthy/h109.jpg,val,Cotton,Healthy,Healthy
+val/Cotton_Healthy/h114.jpg,val,Cotton,Healthy,Healthy
+val/Cotton_Healthy/h120.jpg,val,Cotton,Healthy,Healthy
+val/Cotton_targetspot/14.jpg,val,Cotton,Diseased,targetspot
+val/Cotton_targetspot/18.jpg,val,Cotton,Diseased,targetspot
+val/Cotton_targetspot/2.jpg,val,Cotton,Diseased,targetspot
+val/Cotton_whitefly/2_cotton_whitefly_AGE133_2024-08-21_1.jpg,val,Cotton,Diseased,whitefly
+val/Mango_Alternaria/Alternaria_007.jpg,val,Mango,Diseased,Alternaria
+val/Mango_Alternaria/Alternaria_015.jpg,val,Mango,Diseased,Alternaria
+val/Mango_Alternaria/Alternaria_019.jpg,val,Mango,Diseased,Alternaria
+val/Mango_Alternaria/Alternaria_023.jpg,val,Mango,Diseased,Alternaria
+val/Mango_Alternaria/Alternaria_025.jpg,val,Mango,Diseased,Alternaria
+val/Mango_Anthracnose/20211008_124252 (Custom).jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/20211008_124312 (Custom).jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/20211008_124624 (Custom).jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/20211008_125016 (Custom).jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/Anthracnose_002.jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/Anthracnose_007.jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/Anthracnose_018.jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/Anthracnose_026.jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/Anthracnose_037.jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Anthracnose/Anthracnose_039.jpg,val,Mango,Diseased,Anthracnose
+val/Mango_Bacterialcanker/IMG_20211106_121121 (Custom).jpg,val,Mango,Diseased,Bacterialcanker
+val/Mango_BlackMouldRot/Aspergillus_005.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_011.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_013.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_014.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_019.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_021.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_026.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_BlackMouldRot/Aspergillus_027.jpg,val,Mango,Diseased,BlackMouldRot
+val/Mango_Cuttingweevil/20211011_160831 (Custom) (Custom).jpg,val,Mango,Diseased,Cuttingweevil
+val/Mango_Cuttingweevil/20211011_160852 (Custom) (Custom).jpg,val,Mango,Diseased,Cuttingweevil
+val/Mango_Dieback/20211129_160519 (Custom).jpg,val,Mango,Diseased,Dieback
+val/Mango_Dieback/20211129_160611 (Custom).jpg,val,Mango,Diseased,Dieback
+val/Mango_Gallmidge/IMG_20211106_161113 (Custom).jpg,val,Mango,Diseased,Gallmidge
+val/Mango_Gallmidge/IMG_20211106_161531 (Custom).jpg,val,Mango,Diseased,Gallmidge
+val/Mango_Healthy/20211231_123542 (Custom).jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_002.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_007.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_018.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_023.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_027.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_028.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_030.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_032.jpg,val,Mango,Healthy,Healthy
+val/Mango_Healthy/healthy_035.jpg,val,Mango,Healthy,Healthy
+val/Mango_Powderymildew/20211109_121223 (Custom).jpg,val,Mango,Diseased,Powderymildew
+val/Mango_Powderymildew/20211109_121303 (Custom).jpg,val,Mango,Diseased,Powderymildew
+val/Mango_Powderymildew/20211109_121407 (Custom).jpg,val,Mango,Diseased,Powderymildew
+val/Mango_Sootymould/IMG_20211108_120859 (Custom).jpg,val,Mango,Diseased,Sootymould
+val/Mango_Sootymould/IMG_20211108_120933 (Custom).jpg,val,Mango,Diseased,Sootymould
+val/Mango_Sootymould/IMG_20211108_121006 (Custom).jpg,val,Mango,Diseased,Sootymould
+val/Mango_StemandRot/lasio_125.jpg,val,Mango,Diseased,StemandRot
+val/Mango_StemandRot/lasio_126.jpg,val,Mango,Diseased,StemandRot
+val/Mango_StemandRot/lasio_131.jpg,val,Mango,Diseased,StemandRot
+val/Mango_StemandRot/lasio_139.jpg,val,Mango,Diseased,StemandRot
+val/Mango_StemandRot/lasio_145.jpg,val,Mango,Diseased,StemandRot
+val/Mango_StemandRot/lasio_146.jpg,val,Mango,Diseased,StemandRot
+val/Pepper_Healthy/Cabai sehat021.jpg,val,Pepper,Healthy,Healthy
+val/Pepper_Healthy/Cabai sehat032.jpg,val,Pepper,Healthy,Healthy
+val/Pepper_leafcurl/download (6)a.jpg,val,Pepper,Diseased,leafcurl
+val/Pepper_leafcurl/download (8).jpg,val,Pepper,Diseased,leafcurl
+val/Pepper_leafspot/leaf spot10.jpg,val,Pepper,Diseased,leafspot
+val/Pepper_leafspot/leaf spot17.jpg,val,Pepper,Diseased,leafspot
+val/Pepper_whitefly/download (10).jpg,val,Pepper,Diseased,whitefly
+val/Pepper_whitefly/download (14).jpg,val,Pepper,Diseased,whitefly
+val/Pepper_whitefly/download (26).jpg,val,Pepper,Diseased,whitefly
+val/Pepper_yellowish/Cabai virus kuning26.jpg,val,Pepper,Diseased,yellowish
+val/Pepper_yellowish/Cabai virus kuning27.jpg,val,Pepper,Diseased,yellowish
+val/Potato_bacteria/20230815_111602.jpg,val,Potato,Diseased,bacteria
+val/Potato_bacteria/20230815_111708.jpg,val,Potato,Diseased,bacteria
+val/Potato_bacteria/20230815_111852.jpg,val,Potato,Diseased,bacteria
+val/Potato_fungi/1692334247043.jpg,val,Potato,Diseased,fungi
+val/Potato_fungi/1692334247280.jpg,val,Potato,Diseased,fungi
+val/Potato_fungi/1692334247584.jpg,val,Potato,Diseased,fungi
+val/Potato_Healthy/20230712_123830.jpg,val,Potato,Healthy,Healthy
+val/Potato_Healthy/20230712_124945.jpg,val,Potato,Healthy,Healthy
+val/Potato_nematode/20230712_155420.jpg,val,Potato,Diseased,nematode
+val/Potato_nematode/20230802_105249.jpg,val,Potato,Diseased,nematode
+val/Potato_nematode/20230815_122808.jpg,val,Potato,Diseased,nematode
+val/Potato_pest/1692332762088.jpg,val,Potato,Diseased,pest
+val/Potato_pest/1692333632301.jpg,val,Potato,Diseased,pest
+val/Potato_pest/1692335403953.jpg,val,Potato,Diseased,pest
+val/Potato_phytopthora/20230712_154128.jpg,val,Potato,Diseased,phytopthora
+val/Potato_phytopthora/20230712_154258.jpg,val,Potato,Diseased,phytopthora
+val/Potato_virus/20230712_132900.jpg,val,Potato,Diseased,virus
+val/Rice_bacterialleatblight/DSC_0366.jpg,val,Rice,Diseased,bacterialleatblight
+val/Rice_bacterialleatblight/DSC_0376.jpg,val,Rice,Diseased,bacterialleatblight
+val/Rice_bacterialleatblight/DSC_0395.jpg,val,Rice,Diseased,bacterialleatblight
+val/Rice_blast/IMG_0558.jpg,val,Rice,Diseased,blast
+val/Rice_blast/IMG_0563.jpg,val,Rice,Diseased,blast
+val/Rice_blast/IMG_0570.jpg,val,Rice,Diseased,blast
+val/Rice_brownspot/DSC_0108.jpg,val,Rice,Diseased,brownspot
+val/Rice_brownspot/DSC_0109.jpg,val,Rice,Diseased,brownspot
+val/Rice_brownspot/DSC_0303.jpg,val,Rice,Diseased,brownspot
+val/Rice_Healthy/healthy (100).jpg,val,Rice,Healthy,Healthy
+val/Rice_Healthy/healthy (103).jpg,val,Rice,Healthy,Healthy
+val/Rice_Healthy/healthy (12).jpg,val,Rice,Healthy,Healthy
+val/Rice_hispa/IMG_20190419_095802.jpg,val,Rice,Diseased,hispa
+val/Rice_hispa/IMG_20190419_095920.jpg,val,Rice,Diseased,hispa
+val/Rice_leafsmut/DSC_0314.jpg,val,Rice,Diseased,leafsmut
+val/Rice_leafsmut/DSC_0320.jpg,val,Rice,Diseased,leafsmut
+val/Rice_leafsmut/DSC_0506.jpg,val,Rice,Diseased,leafsmut
+val/Rice_tungro/IMG_0706.jpg,val,Rice,Diseased,tungro
+val/Rice_tungro/IMG_0826.jpg,val,Rice,Diseased,tungro
+val/Rice_tungro/IMG_0836.jpg,val,Rice,Diseased,tungro
+val/Wheat_brownrust/BrownRust1138.png,val,Wheat,Diseased,brownrust
+val/Wheat_brownrust/BrownRust1364.png,val,Wheat,Diseased,brownrust
+val/Wheat_Healthy/Healthy1084.png,val,Wheat,Healthy,Healthy
+val/Wheat_Healthy/Healthy1112.png,val,Wheat,Healthy,Healthy
+val/Wheat_mildew/Mildew1022.png,val,Wheat,Diseased,mildew
+val/Wheat_mildew/Mildew1133.png,val,Wheat,Diseased,mildew
+val/Wheat_septoria/Septoria1011.png,val,Wheat,Diseased,septoria
+val/Wheat_septoria/Septoria1131.png,val,Wheat,Diseased,septoria
+val/Wheat_yellowrust/YellowRust1003.png,val,Wheat,Diseased,yellowrust
+val/Wheat_yellowrust/YellowRust1287.png,val,Wheat,Diseased,yellowrust
+test/Apple_applerotleaves/Black_rot (123).jpg,test,Apple,Diseased,applerotleaves
+test/Apple_applerotleaves/Black_rot (130).jpg,test,Apple,Diseased,applerotleaves
+test/Apple_Blotch_Apple/_0_279.png,test,Apple,Diseased,Blotch
+test/Apple_Blotch_Apple/_0_350.png,test,Apple,Diseased,Blotch
+test/Apple_Blotch_Apple/_0_610.png,test,Apple,Diseased,Blotch
+test/Apple_cedarrust/Cedar_rust (107).jpg,test,Apple,Diseased,cedarrust
+test/Apple_cedarrust/Cedar_rust (114).jpg,test,Apple,Diseased,cedarrust
+test/Apple_Healthy/Train_1012.jpg,test,Apple,Healthy,Healthy
+test/Apple_Healthy/Train_1031.jpg,test,Apple,Healthy,Healthy
+test/Apple_Healthy/Train_1082.jpg,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_6510.png,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_7131.png,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_7200.png,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_7846.png,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_8237.png,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_9237.png,test,Apple,Healthy,Healthy
+test/Apple_Healthy/_0_9495.png,test,Apple,Healthy,Healthy
+test/Apple_leafblotch/2064.jpg.jpg,test,Apple,Diseased,leafblotch
+test/Apple_leafblotch/2093.jpg.jpg,test,Apple,Diseased,leafblotch
+test/Apple_normal_apple/_0_6510.png,test,Apple,Diseased,normal
+test/Apple_normal_apple/_0_6597.png,test,Apple,Diseased,normal
+test/Apple_normal_apple/_0_6728.png,test,Apple,Diseased,normal
+test/Apple_Rot_Apple/_0_9179.png,test,Apple,Diseased,Rot
+test/Apple_Rot_Apple/_0_9223.png,test,Apple,Diseased,Rot
+test/Apple_Rot_Apple/_0_926.png,test,Apple,Diseased,Rot
+test/Apple_scableaves/Train_1032.jpg,test,Apple,Diseased,scableaves
+test/Apple_scableaves/Train_1033.jpg,test,Apple,Diseased,scableaves
+test/Apple_scableaves/Train_1075.jpg,test,Apple,Diseased,scableaves
+test/Apple_Scab_Apple/_0_441.png,test,Apple,Diseased,Scab
+test/Apple_Scab_Apple/_0_4503.png,test,Apple,Diseased,Scab
+test/Apple_Scab_Apple/_0_4968.png,test,Apple,Diseased,Scab
+test/Apple_Scab_Apple/_0_699.png,test,Apple,Diseased,Scab
+test/Cotton_Aphids/2.jpg,test,Cotton,Diseased,Aphids
+test/Cotton_Aphids/21.jpg,test,Cotton,Diseased,Aphids
+test/Cotton_Armyworm/11.jpg,test,Cotton,Diseased,Armyworm
+test/Cotton_Armyworm/18.jpg,test,Cotton,Diseased,Armyworm
+test/Cotton_Armyworm/21.jpg,test,Cotton,Diseased,Armyworm
+test/Cotton_bacterialblight/5586201.jpg,test,Cotton,Diseased,bacterialblight
+test/Cotton_bacterialblight/bact117.jpg,test,Cotton,Diseased,bacterialblight
+test/Cotton_curlvirus/curl101.jpg,test,Cotton,Diseased,curlvirus
+test/Cotton_curlvirus/curl110.jpg,test,Cotton,Diseased,curlvirus
+test/Cotton_fussariumwilt/done6.jpg,test,Cotton,Diseased,fussariumwilt
+test/Cotton_fussariumwilt/FOV4-leaf-symptoms-courtesy-UC-Davis_468x351.jpg,test,Cotton,Diseased,fussariumwilt
+test/Cotton_Healthy/h100.jpg,test,Cotton,Healthy,Healthy
+test/Cotton_Healthy/h102.jpg,test,Cotton,Healthy,Healthy
+test/Cotton_Healthy/h112.jpg,test,Cotton,Healthy,Healthy
+test/Cotton_targetspot/12.jpg,test,Cotton,Diseased,targetspot
+test/Cotton_targetspot/17.jpg,test,Cotton,Diseased,targetspot
+test/Cotton_whitefly/2_cotton_whitefly_AGE121_2024-08-31_3.jpg,test,Cotton,Diseased,whitefly
+test/Cotton_whitefly/2_cotton_whitefly_AGE156_2024-09-12_20.jpg,test,Cotton,Diseased,whitefly
+test/Mango_Alternaria/Alternaria_011.jpg,test,Mango,Diseased,Alternaria
+test/Mango_Alternaria/Alternaria_012.jpg,test,Mango,Diseased,Alternaria
+test/Mango_Alternaria/Alternaria_014.jpg,test,Mango,Diseased,Alternaria
+test/Mango_Alternaria/Alternaria_032.jpg,test,Mango,Diseased,Alternaria
+test/Mango_Anthracnose/20211008_124933 (Custom).jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Anthracnose/Anthracnose_016.jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Anthracnose/Anthracnose_020.jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Anthracnose/Anthracnose_024.jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Anthracnose/Anthracnose_030.jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Anthracnose/Anthracnose_036.jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Anthracnose/Anthracnose_038.jpg,test,Mango,Diseased,Anthracnose
+test/Mango_Bacterialcanker/IMG_20211106_121102 (Custom).jpg,test,Mango,Diseased,Bacterialcanker
+test/Mango_Bacterialcanker/IMG_20211106_121111 (Custom).jpg,test,Mango,Diseased,Bacterialcanker
+test/Mango_BlackMouldRot/Aspergillus_009.jpg,test,Mango,Diseased,BlackMouldRot
+test/Mango_BlackMouldRot/Aspergillus_012.jpg,test,Mango,Diseased,BlackMouldRot
+test/Mango_BlackMouldRot/Aspergillus_031.jpg,test,Mango,Diseased,BlackMouldRot
+test/Mango_BlackMouldRot/Aspergillus_039.jpg,test,Mango,Diseased,BlackMouldRot
+test/Mango_BlackMouldRot/Aspergillus_041.jpg,test,Mango,Diseased,BlackMouldRot
+test/Mango_Cuttingweevil/20211011_160614 (Custom).jpg,test,Mango,Diseased,Cuttingweevil
+test/Mango_Dieback/20211129_160453 (Custom).jpg,test,Mango,Diseased,Dieback
+test/Mango_Dieback/20211129_160615 (Custom).jpg,test,Mango,Diseased,Dieback
+test/Mango_Gallmidge/IMG_20211106_161103 (Custom).jpg,test,Mango,Diseased,Gallmidge
+test/Mango_Gallmidge/IMG_20211106_161131 (Custom).jpg,test,Mango,Diseased,Gallmidge
+test/Mango_Gallmidge/IMG_20211106_161445 (Custom).jpg,test,Mango,Diseased,Gallmidge
+test/Mango_Healthy/healthy_003.jpg,test,Mango,Healthy,Healthy
+test/Mango_Healthy/healthy_009.jpg,test,Mango,Healthy,Healthy
+test/Mango_Healthy/healthy_010.jpg,test,Mango,Healthy,Healthy
+test/Mango_Healthy/healthy_021.jpg,test,Mango,Healthy,Healthy
+test/Mango_Healthy/healthy_022.jpg,test,Mango,Healthy,Healthy
+test/Mango_Healthy/healthy_025.jpg,test,Mango,Healthy,Healthy
+test/Mango_Powderymildew/20211109_121245 (Custom).jpg,test,Mango,Diseased,Powderymildew
+test/Mango_Powderymildew/20211109_121307 (Custom).jpg,test,Mango,Diseased,Powderymildew
+test/Mango_Powderymildew/20211109_121455 (Custom).jpg,test,Mango,Diseased,Powderymildew
+test/Mango_Sootymould/IMG_20211108_120854 (Custom).jpg,test,Mango,Diseased,Sootymould
+test/Mango_Sootymould/IMG_20211108_120952 (Custom).jpg,test,Mango,Diseased,Sootymould
+test/Mango_StemandRot/lasio_114.jpg,test,Mango,Diseased,StemandRot
+test/Mango_StemandRot/lasio_115.jpg,test,Mango,Diseased,StemandRot
+test/Mango_StemandRot/lasio_132.jpg,test,Mango,Diseased,StemandRot
+test/Mango_StemandRot/lasio_137.jpg,test,Mango,Diseased,StemandRot
+test/Pepper_Healthy/Cabai sehat011.jpg,test,Pepper,Healthy,Healthy
+test/Pepper_Healthy/Cabai sehat019.jpg,test,Pepper,Healthy,Healthy
+test/Pepper_leafcurl/download.jpg,test,Pepper,Diseased,leafcurl
+test/Pepper_leafcurl/images (10).jpg,test,Pepper,Diseased,leafcurl
+test/Pepper_leafcurl/images (10)a.jpg,test,Pepper,Diseased,leafcurl
+test/Pepper_leafspot/leaf spot04 (1).jpg,test,Pepper,Diseased,leafspot
+test/Pepper_leafspot/leaf spot07.jpg,test,Pepper,Diseased,leafspot
+test/Pepper_leafspot/leaf spot14 (1).jpg,test,Pepper,Diseased,leafspot
+test/Pepper_whitefly/download (13).jpg,test,Pepper,Diseased,whitefly
+test/Pepper_whitefly/download (29).jpg,test,Pepper,Diseased,whitefly
+test/Pepper_yellowish/Cabai virus kuning13.jpg,test,Pepper,Diseased,yellowish
+test/Pepper_yellowish/Cabai virus kuning16.jpg,test,Pepper,Diseased,yellowish
+test/Potato_bacteria/1692335403904.jpg,test,Potato,Diseased,bacteria
+test/Potato_bacteria/20230815_111818.jpg,test,Potato,Diseased,bacteria
+test/Potato_fungi/1692334247349.jpg,test,Potato,Diseased,fungi
+test/Potato_fungi/1692334247452.jpg,test,Potato,Diseased,fungi
+test/Potato_Healthy/1692336758935.jpg,test,Potato,Healthy,Healthy
+test/Potato_Healthy/20230712_124025.jpg,test,Potato,Healthy,Healthy
+test/Potato_nematode/20230712_122802.jpg,test,Potato,Diseased,nematode
+test/Potato_nematode/20230712_154725.jpg,test,Potato,Diseased,nematode
+test/Potato_nematode/20230712_155753.jpg,test,Potato,Diseased,nematode
+test/Potato_pest/1692332350573.jpg,test,Potato,Diseased,pest
+test/Potato_pest/1692334247052.jpg,test,Potato,Diseased,pest
+test/Potato_phytopthora/1692336758747.jpg,test,Potato,Diseased,phytopthora
+test/Potato_phytopthora/20230712_115252.jpg,test,Potato,Diseased,phytopthora
+test/Potato_phytopthora/20230712_120436.jpg,test,Potato,Diseased,phytopthora
+test/Potato_virus/1692338650296.jpg,test,Potato,Diseased,virus
+test/Potato_virus/20230712_133611.jpg,test,Potato,Diseased,virus
+test/Rice_bacterialleatblight/DSC_0367.jpg,test,Rice,Diseased,bacterialleatblight
+test/Rice_bacterialleatblight/DSC_0379.jpg,test,Rice,Diseased,bacterialleatblight
+test/Rice_bacterialleatblight/DSC_0393.jpg,test,Rice,Diseased,bacterialleatblight
+test/Rice_blast/IMG_0543.jpg,test,Rice,Diseased,blast
+test/Rice_blast/IMG_0560.jpg,test,Rice,Diseased,blast
+test/Rice_brownspot/DSC_0115.jpg,test,Rice,Diseased,brownspot
+test/Rice_brownspot/DSC_0119.jpg,test,Rice,Diseased,brownspot
+test/Rice_brownspot/DSC_0304.jpg,test,Rice,Diseased,brownspot
+test/Rice_Healthy/healthy (1).jpg,test,Rice,Healthy,Healthy
+test/Rice_Healthy/healthy (11).jpg,test,Rice,Healthy,Healthy
+test/Rice_Healthy/healthy (110).jpg,test,Rice,Healthy,Healthy
+test/Rice_hispa/IMG_20190419_094238.jpg,test,Rice,Diseased,hispa
+test/Rice_leafsmut/DSC_0293.jpg,test,Rice,Diseased,leafsmut
+test/Rice_leafsmut/DSC_0315.jpg,test,Rice,Diseased,leafsmut
+test/Rice_tungro/IMG_0414.jpg,test,Rice,Diseased,tungro
+test/Rice_tungro/IMG_0689.jpg,test,Rice,Diseased,tungro
+test/Rice_tungro/IMG_0825.jpg,test,Rice,Diseased,tungro
+test/Wheat_brownrust/BrownRust1261.png,test,Wheat,Diseased,brownrust
+test/Wheat_Healthy/Healthy1393.png,test,Wheat,Healthy,Healthy
+test/Wheat_Healthy/Healthy1565.png,test,Wheat,Healthy,Healthy
+test/Wheat_mildew/Mildew1051.png,test,Wheat,Diseased,mildew
+test/Wheat_mildew/Mildew1148.png,test,Wheat,Diseased,mildew
+test/Wheat_septoria/Septoria1149.png,test,Wheat,Diseased,septoria
+test/Wheat_septoria/Septoria1266.png,test,Wheat,Diseased,septoria
+test/Wheat_yellowrust/YellowRust1046.png,test,Wheat,Diseased,yellowrust
+test/Wheat_yellowrust/YellowRust1402.png,test,Wheat,Diseased,yellowrust
+test/Wheat_yellowrust/YellowRust1433.png,test,Wheat,Diseased,yellowrust
