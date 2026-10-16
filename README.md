@@ -1,4 +1,4 @@
-# LEAFSAFE
+# FloraNode: Microservice-Backed Smart Agriculture Monitor
 ### Leaf Evaluation and AI-based Farming System for Automated Crop Health Assessment and Field Enhancement
 
 An AI-powered smart agriculture system that detects plant diseases from leaf images using Deep Learning and enables intelligent pesticide spraying through an ESP32-based IoT control system.
@@ -7,7 +7,7 @@ An AI-powered smart agriculture system that detects plant diseases from leaf ima
 
 ## 🌱 Overview
 
-LEAFSAFE combines Artificial Intelligence, Computer Vision, and IoT technologies to provide an end-to-end smart farming solution. The system analyzes leaf images, identifies plant species, evaluates plant health, detects diseases, and triggers automated spraying recommendations.
+FloraNode combines Artificial Intelligence, Computer Vision, and IoT technologies to provide an end-to-end smart farming solution. The system analyzes leaf images, identifies plant species, evaluates plant health, detects diseases, and triggers automated spraying recommendations.
 
 The project consists of:
 
@@ -134,7 +134,7 @@ The model simultaneously predicts:
 ## 📁 Project Structure
 
 ```text
-LEAFSAFE/
+FloraNode/
 │
 ├── frontend/
 │   ├── app/
